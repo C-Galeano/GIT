@@ -5,6 +5,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("HOLA, mi nombre es Cristian");
+        System.out.printf(" Este es mi trabajo del manual de git");
 
     }
 }
